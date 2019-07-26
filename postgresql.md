@@ -8,14 +8,14 @@
 
 ## Server
 
-| IP                        | 192.168.1.21                            |
-| ------------------------- |:---------------------------------------:|
-| Role                      | Master                                  |
-| SSH Username              | pi                                      |
-| SSH Password              | raspberry                               |
-| PostgreSQL Username       | postgres                                |
-| PostgreSQL Password       |                                         |
-| PostgreSQL Connection URL | postgresql://postgres@192.168.1.21:5432 |
+| IP                        | 192.168.1.210                            |
+| ------------------------- |:----------------------------------------:|
+| Role                      | Master                                   |
+| SSH Username              | pi                                       |
+| SSH Password              | raspberry                                |
+| PostgreSQL Username       | postgres                                 |
+| PostgreSQL Password       |                                          |
+| PostgreSQL Connection URL | postgresql://postgres@192.168.1.210:5432 |
 
 ## Raspberry Pi OS:
 
