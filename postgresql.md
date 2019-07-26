@@ -98,7 +98,7 @@ host    all             all             0.0.0.0/0               trust
 host    all             all             ::1/128                 trust
 ```
 
-Restart `postgresql` server and `Raspberry Pi`.
+Restart `postgresql` service and `Raspberry Pi`.
 
 ```
 sudo /etc/init.d/postgresql restart
