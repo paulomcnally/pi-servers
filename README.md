@@ -2,6 +2,7 @@
 Raspberry Pi Servers
 
 [PostgreSQL](postgresql.md)
+[Redis](redis.md)
 
 ## Test
 
