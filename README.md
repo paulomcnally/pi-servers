@@ -1,8 +1,8 @@
 # pi-servers
 Raspberry Pi Servers
 
-[PostgreSQL](postgresql.md)
-[Redis](redis.md)
+* [PostgreSQL](postgresql.md)
+* [Redis](redis.md)
 
 ## Test
 
