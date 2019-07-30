@@ -9,15 +9,13 @@ sudo apt-get install vim
 
 ## Static Ip
 
-Config `dhcpcd.conf`.
+Edit `dhcpcd.conf`.
 
 ```bash
 vi /etc/dhcpcd.conf
 ```
 
 Add this lines:
-
-> Change `THE_SSID` AND `THE_PASSWORD` with the you're wifi info.
 
 ```
 interface eth0
@@ -31,3 +29,11 @@ Restart system.
 ```bash
 sudo reboot
 ```
+
+## WiFi
+
+```bash
+sudo raspi-config
+```
+
+Select the `Network Options` item from the menu, then the `Wi-fi` option.
