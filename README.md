@@ -1,6 +1,10 @@
 # pi-servers
 Raspberry Pi Servers
 
+## OS
+* [Raspbian](raspbian.md)
+* [Ubuntu](ubuntu.md)
+
 ## Servicios
 
 * [PostgreSQL](postgresql.md)
