@@ -7,6 +7,7 @@
     "test": "test"
   },
   "scripts": {
+    "pi": "node pi.js",
     "test": "node_modules/mocha/bin/mocha"
   },
   "repository": {
@@ -25,5 +26,9 @@
     "mocha": "^6.2.0",
     "pg": "^7.12.0",
     "redis": "^2.8.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "meow": "^5.0.0"
   }
 }

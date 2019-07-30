@@ -15,8 +15,26 @@ Raspberry Pi Servers
 
 Install [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable) after execute test.
 
-```
+```bash
 yarn test
+```
+
+## CLI
+
+shutdown
+
+```bash
+yarn pi postgresql --shutdown
+yarn pi redis --shutdown
+yarn pi memcached --shutdown
+```
+
+storage
+
+```bash
+yarn pi postgresql --storage
+yarn pi redis --storage
+yarn pi memcached --storage
 ```
 
 ## Disclaimer
