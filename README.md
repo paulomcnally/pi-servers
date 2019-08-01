@@ -2,8 +2,8 @@
 Raspberry Pi Servers
 
 ## OS
-* [Raspbian](raspbian.md)
-* [Ubuntu](ubuntu.md)
+* [Raspbian](os/raspbian.md)
+* [Ubuntu](os/ubuntu.md)
 
 ## Servicios
 
