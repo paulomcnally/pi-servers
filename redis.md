@@ -17,6 +17,21 @@
 | Redis Password       |                            |
 | Redis Connection URL | redis://192.168.1.220:6379 |
 
+## Raspberry Pi Hardware
+
+| Name         | Raspberry Pi 1 |
+| ------------ |:--------------:|
+| Release Date | Q4 2012        |
+| CPU          | BCM2835        |
+| Cores        | 1              |
+| Code         | 000e           |
+| Model        | B              |
+| Revision     | 2.0            |
+| RAM          | 512MB          |
+| Manufacturer | Sony UK        |
+
+Raspberry Pi 1 Model B
+
 ## Raspberry Pi OS:
 
 | Name           | Raspbian Buster Lite |

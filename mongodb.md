@@ -17,6 +17,19 @@
 | MongoDB Password       |                               |
 | MongoDB Connection URL | mongodb://192.168.1.230:27017 |
 
+## Raspberry Pi Hardware
+
+| Name         | Raspberry Pi 3 |
+| ------------ |:--------------:|
+| Release Date | Q4 2016        |
+| CPU          | BCM2837        |
+| Cores        | 4              |
+| Code         | a32082         |
+| Model        | 3B             |
+| Revision     | 1.2            |
+| RAM          | 1GB            |
+| Manufacturer | Sony Japan     |
+
 ## Raspberry Pi OS:
 
 | Name           | Ubuntu Bionic Beaver |

@@ -17,6 +17,19 @@
 | PostgreSQL Password       |                                          |
 | PostgreSQL Connection URL | postgresql://postgres@192.168.1.210:5432 |
 
+## Raspberry Pi Hardware
+
+| Name         | Raspberry Pi 3 |
+| ------------ |:--------------:|
+| Release Date | Q1 2018        |
+| CPU          | BCM2837        |
+| Cores        | 4              |
+| Code         | a020d3         |
+| Model        | 3B+            |
+| Revision     | 1.3            |
+| RAM          | 1GB            |
+| Manufacturer | Sony UK        |
+
 ## Raspberry Pi OS:
 
 | Name           | Raspbian Buster Lite |
