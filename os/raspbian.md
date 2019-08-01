@@ -37,3 +37,7 @@ sudo raspi-config
 ```
 
 Select the `Network Options` item from the menu, then the `Wi-fi` option.
+
+> Could not communicate with wpa_supplicant.
+
+Solutions: [https://raspberrypi.stackexchange.com/a/65628](https://raspberrypi.stackexchange.com/a/65628)
