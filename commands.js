@@ -14,12 +14,12 @@ class Commands {
    * Flag methods
    */
   shutdown() {
-    this.command = 'ssh pi@${this.host} sudo shutdown -h now';
+    this.command = `ssh ${this.host} sudo shutdown -h now`;
     this.success('Turning off');
   }
 
   storage() {
-    this.command = `ssh pi@${this.host} "df -h --total | grep 'total' | grep -oE \"[[:digit:]]*%"\"`;
+    this.command = `ssh ${this.host} "df -h --total | grep 'total' | grep -oE \"[[:digit:]]*%"\"`;
     const used = this.execute();
     const free = `${100.0 - parseFloat(used)}%`
 
